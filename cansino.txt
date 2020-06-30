@@ -1,0 +1,30 @@
+
+{{Info/Empresa
+|website            = cansinotech.com
+  }}
+
+A '''CanSino Biologics''', frequentemente abreviada como '''CanSinoBIO''', é uma empresa [[China|chinesa de]] [[Vacina|vacinas]] . <ref name="scmp2018">{{Citar jornal|ultimo=Ng|primeiro=Eric|url=https://www.scmp.com/business/article/2156867/chinese-vaccine-maker-cansino-faces-tough-ipo-sell-wake-changsheng-bio|titulo=Chinese vaccine maker CanSino faces tough IPO sell in wake of Changsheng Bio-technology scandal|obra=South China Morning Post|data=25/07/2018|acessodata=18/04/2020}}</ref> 
+
+== História ==
+A CanSino Biologics foi fundada em 2009 em [[Tianjin]], China por Yu Xuefeng, Zhu Tao, Qiu Dongxu e Helen Mao Huihua. <ref name="scmp2018">{{Citar jornal|ultimo=Ng|primeiro=Eric|url=https://www.scmp.com/business/article/2156867/chinese-vaccine-maker-cansino-faces-tough-ipo-sell-wake-changsheng-bio|titulo=Chinese vaccine maker CanSino faces tough IPO sell in wake of Changsheng Bio-technology scandal|obra=South China Morning Post|data=25/07/2018|acessodata=18/04/2020}}</ref> 
+
+Em julho de 2018, entrou com um pedido para listar na [[Bolsa de Valores de Hong Kong]]. <ref name="scmp2018">{{Citar jornal|ultimo=Ng|primeiro=Eric|url=https://www.scmp.com/business/article/2156867/chinese-vaccine-maker-cansino-faces-tough-ipo-sell-wake-changsheng-bio|titulo=Chinese vaccine maker CanSino faces tough IPO sell in wake of Changsheng Bio-technology scandal|obra=South China Morning Post|data=25/07/2018|acessodata=18/04/2020}}</ref> Ela estreou em 28 de março de 2019 com um aumento de 59%, o maior ganho comercial no primeiro dia em Hong Kong desde 2017. <ref name="scmp2019">{{Citar jornal|ultimo=Low|primeiro=Zoe|url=https://www.scmp.com/business/companies/article/3003886/ebola-vaccine-maker-cansino-biologics-has-plan-take-its-life|titulo=Ebola vaccine maker CanSino Biologics has a plan to take its life-saving treatments well beyond China's domestic market|obra=South China Morning Post|data=29/03/2019|acessodata=18/04/2020}}</ref> 
+
+== Vacinas ==
+A empresa possui um portfólio de vacinas em fase de pesquisa, incluindo a Ad5-EBOV para prevenir o [[Doença por vírus Ébola|Ebola]] e a [[Pesquisa de vacina para COVID-19|Ad5-nCoV]] para o [[COVID-19]] . Ambos são desenvolvidos em conjunto com o Instituto de Biotecnologia da Academia de Ciências Médicas Militares [[Exército de Libertação Popular|do Exército de Libertação Popular]] . <ref name="scmp2018">{{Citar jornal|ultimo=Ng|primeiro=Eric|url=https://www.scmp.com/business/article/2156867/chinese-vaccine-maker-cansino-faces-tough-ipo-sell-wake-changsheng-bio|titulo=Chinese vaccine maker CanSino faces tough IPO sell in wake of Changsheng Bio-technology scandal|obra=South China Morning Post|data=25/07/2018|acessodata=18/04/2020}}</ref> <ref>{{Citar jornal|ultimo=Pinghui|primeiro=Zhuang|url=https://www.scmp.com/news/china/society/article/3079429/volunteers-needed-second-phase-china-coronavirus-vaccine-trial|titulo=Volunteers needed for second phase of China coronavirus vaccine trial|obra=South China Morning Post|data=10/04/2020|acessodata=18/04/2020}}</ref> 
+
+A empresa também colaborou com o [[Conselho Nacional de Pesquisa do Canadá]] no desenvolvimento de vacinas. As duas organizações começaram a colaborar em 2013 e depois trabalharam juntas para desenvolver uma vacina contra o Ebola. <ref name="newswire 816213726">{{Citar jornal|ultimo=Canada|primeiro=National Research Council|titulo=The National Research Council of Canada and CanSino Biologics Inc. announce collaboration to advance vaccine against COVID-19|url=https://www.newswire.ca/news-releases/the-national-research-council-of-canada-and-cansino-biologics-inc-announce-collaboration-to-advance-vaccine-against-covid-19-816213726.html|acessodata=19/05/2020|obra=www.newswire.ca|lingua=en}}</ref> 
+
+Em março de 2020, a CanSino fez um acordo para colaborar com o NRC no desenvolvimento do candidato à vacina [[COVID-19]] Ad5-nCoV, para ajudar a encerrar a [[Pandemia de COVID-19|pandemia]] do [[Pandemia de COVID-19|COVID-19]], com planos de realizar um ensaio clínico no Canadá. <ref>{{Citar jornal|ultimo=DeArment|primeiro=Alaric|titulo=CanSino Biologics/05/start clinical development of Covid-19 vaccine in Canada|url=https://medcitynews.com/2020/05/cansino-biologics-may-start-clinical-development-of-covid-19-vaccine-in-canada/|acessodata=19/05/2020|obra=MedCity News|data=13/05/2020}}</ref> O Ad5-nCoV foi o primeiro candidato a vacina COVID-19 no mundo a iniciar testes em Fase II em humanos. <ref name="newswire 816213726">{{Citar jornal|ultimo=Canada|primeiro=National Research Council|titulo=The National Research Council of Canada and CanSino Biologics Inc. announce collaboration to advance vaccine against COVID-19|url=https://www.newswire.ca/news-releases/the-national-research-council-of-canada-and-cansino-biologics-inc-announce-collaboration-to-advance-vaccine-against-covid-19-816213726.html|acessodata=19/05/2020|obra=www.newswire.ca|lingua=en}}</ref> 
+
+== Investidores ==
+{{Desde|2018}} CanSino Biologics investors included [[Eli Lilly and Company|Lilly Asia Ventures]], Qiming Venture Partners and [[ Gestão de Fundos SDIC |SDIC Fund Management]].<ref name="scmp2018">{{Citar jornal|ultimo=Ng|primeiro=Eric|url=https://www.scmp.com/business/article/2156867/chinese-vaccine-maker-cansino-faces-tough-ipo-sell-wake-changsheng-bio|titulo=Chinese vaccine maker CanSino faces tough IPO sell in wake of Changsheng Bio-technology scandal|obra=South China Morning Post|data=25/07/2018|acessodata=18/04/2020}}</ref>
+
+{{Referências}}
+
+== Ligações externas ==
+
+* (em inglês) {{Website oficial|https://www.cansinotech.com}}
+* (em chinês) {{Website oficial|https://www.cansinotech.com.cn}}
+[[Categoria:!Artigos com texto em chinês simplificado]]
+[[Categoria:!Artigos com texto em chinês]]
