@@ -1,7 +1,0 @@
-"arquivodata" and "arquivourl" are swapped in a number of cases.
-
-How to solve?
-
-find 'arquivodata="http' and change by "arquivourl"
-
-find "arquivourl=(1 or 2 numbers)/" "

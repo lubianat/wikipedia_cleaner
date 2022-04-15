@@ -1,0 +1,38 @@
+
+A espécie e [[Endemismo|endêmica]] do [[Brasil]].<ref name="IOC11.2">{{Citar web|ultimo=Gill|primeiro=F.|ultimo2=Donsker|primeiro2=D.|url=https://www.worldbirdnames.org/|titulo=IOC World Bird List (v 11.2)|data=julho de 2021|acessodata=14 de julho de 2021|ultimo3=Rasmussen|primeiro3=P.}}</ref>
+
+== Taxonomia e sistemática ==
+O eremita-bico-de-serra é colocado na subfamília dos [[Phaethornithinae|eremitas]] (Phaethornithinae), mas entre essas aves, é a espécie mais semelhante aos beija-flores típicos, [[Trochilinae]].<ref name="SBHE-BOW">Hinkelmann, C. and G. M. Kirwan (2020). </ref> É o único membro de seu gênero e não possui subespécies.<ref name="IOC11.2">{{Citar web|ultimo=Gill|primeiro=F.|ultimo2=Donsker|primeiro2=D.|url=https://www.worldbirdnames.org/|titulo=IOC World Bird List (v 11.2)|data=julho de 2021|acessodata=14 de julho de 2021|ultimo3=Rasmussen|primeiro3=P.}}<cite class="citation web cs1" data-ve-ignore="true" id="CITEREFGillDonskerRasmussen2021">Gill, F.; Donsker, D.; Rasmussen, P. (July 2021). </cite></ref>
+[[Ficheiro:Saw-billed_Hermit_Ramphodon_naevius.jpg|esquerda|miniaturadaimagem|Em vôo. ]]
+
+== Descrição ==
+O eremita de bico de serra tem 14 a 16 cm. É um dos três eremitas mais pesados e o macho é mais pesado que a fêmea. Ambos os sexos têm serrilhas na [[mandíbula]] e o bico do macho também tem uma ponta em forma de gancho. (O  ''Androdon aequatorialis'' é o único outro beija-flor que tem um bico serrilhado. ) Ambos os sexos têm partes superiores escamosas marrom e partes inferiores listradas escuras e pálidas. Eles têm uma garganta ocre avermelhada, uma mancha escura no olho e um [[Lista supraciliar|supercílio]] branco. O lado superior da cauda é preto arroxeado, enquanto o lado inferior tem progressivamente mais amarelo nas extremidades do par externo de penas.<ref name="SBHE-BOW">Hinkelmann, C. and G. M. Kirwan (2020). </ref>
+
+== Distribuição e habitat ==
+O ermitão-de-bico-serra é encontrado em uma faixa estreita do sudeste do Brasil desde os estados de [[Minas Gerais]] e [[Espírito Santo (estado)|Espírito Santo]] ao sul até o leste de [[Santa Catarina]] e norte  do [[Rio Grande do Sul]]. Habita o sub-bosque da [[Mata Atlântica]] costeira úmida até uma altitude de 500 m.<ref name="SBHE-BOW">Hinkelmann, C. and G. M. Kirwan (2020). </ref>
+
+== Comportamento ==
+
+=== Movimento ===
+Presume-se que o eremita de bico de serra seja sedentário, mas é possível que se desloque em áreas pequenas.<ref name="SBHE-BOW">Hinkelmann, C. and G. M. Kirwan (2020). </ref>
+
+=== Alimentação ===
+O eremita de bico de serra se alimenta do néctar de uma ampla variedade de plantas com flores nativas e introduzidas; sendo a maioria flores tubulares. Normalmente se alimenta a de cerca 6 m. Como outros beija-flores eremitas, é um se alimenta por "linha-armadilha " (''traplining''), visitando um circuito de plantas com flores. No entanto, ao contrário de outras espécies com o mesmo comportamento, ele defende sua rota por comportamento agressivo em relação a beija-flores da [[Coespecífico|mesma espécie]] e outros beija-flores. Além do néctar, alimenta-se de pequenos [[artrópode]]s colhidos na vegetação.<ref name="SBHE-BOW">Hinkelmann, C. and G. M. Kirwan (2020). </ref>
+
+=== Reprodução ===
+A época de reprodução do eremita não está totalmente definida, mas parece incluir julho a setembro. Ele constrói seu ninho em forma de cone com material vegetal e [[Teia de aranha|teias de aranha]] sob a ponta de uma folha longa caída. Sua ninhada é de dois ovos.<ref name="SBHE-BOW">Hinkelmann, C. and G. M. Kirwan (2020). </ref>
+
+=== Vocalização ===
+A canção do eremita é um "trinado muito alto e tagarela". As chamadas incluem "uma série sustentada e rápida de notas 'bic' muito altas" e "uma série descendente... de notas 'siiii'".<ref>{{Citar livro|título=A Field Guide to the Birds of Brazil|ultimo=van Perlo|primeiro=Ber|data=2009|editora=Oxford University Press|localização=New York|páginas=160|isbn=978-0-19-530155-7}}</ref> As chamadas são aparentemente usadas para defender a linha de armadilha.<ref name="SBHE-BOW">Hinkelmann, C. and G. M. Kirwan (2020). </ref>
+
+== Status ==
+A [[União Internacional para a Conservação da Natureza|IUCN]] avaliou o eremita como pouco preocupante. "Suspeita-se que esteja diminuindo moderadamente rapidamente devido à perda de habitat".<ref name="IUCN"><cite class="citation journal cs1" id="CITEREFBirdLife_International2021"><span class="cx-segment" data-segmentid="170">[[BirdLife International]] (2021). </span><span class="cx-segment" data-segmentid="172">[https://www.iucnredlist.org/species/22687022/197680915 "Saw-billed Hermit ''Ramphodon naevius''"]. </span><span class="cx-segment" data-segmentid="173">''[[IUCN Red List|IUCN Red List of Threatened Species]]''. '''2021'''<span class="reference-accessdate">. </span></span><span class="cx-segment" data-segmentid="175"><span class="reference-accessdate">Retrieved <span class="nowrap">13 November</span> 2021</span>.</span></cite></ref>
+
+== Referências ==
+
+== Ligações externas ==
+
+* [http://vireo.acnatsci.org/search.html?Form=Search&SEARCHBY=Common&KEYWORDS=saw-billed+hermit&showwhat=images&AGE=All&SEX=All&ACT=All&Search=Search&VIEW=All&ORIENTATION=All&RESULTS=24 Galeria de fotos do Eremita com bico de serra] VIREO
+<nowiki>
+[[Categoria:Aves descritas em 1818]]
+[[Categoria:Espécies pouco preocupantes]]</nowiki>
